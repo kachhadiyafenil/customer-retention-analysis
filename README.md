@@ -54,8 +54,10 @@ The goal is to measure retention and identify improvement opportunities.
 ## 📷 Sample Output
 ## Retention by Category
 <img width="545" height="114" alt="Screenshot 2026-04-09 102816" src="https://github.com/user-attachments/assets/d8c606b1-6b6e-42db-8eb3-0f9ec655482a" />
+---
 ## Final Dataset
 <img width="545" height="227" alt="Screenshot 2026-04-09 103032" src="https://github.com/user-attachments/assets/b944dbae-779e-4ff8-9ba5-ea991843f699" />
+---
 ## Retention Rate Summary
 <img width="545" height="100" alt="Screenshot 2026-04-09 103400" src="https://github.com/user-attachments/assets/732ccbcc-d334-45ac-8b73-7b1f2e36d820" />
 
